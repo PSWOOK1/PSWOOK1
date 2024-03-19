@@ -6,9 +6,9 @@
 * 💻 새로운 기술 습득과 이를 활용한 문제 해결 능력을 키우고 있는 백엔드 엔지니어입니다.
 <br/>
 
- ✉ Email : wowls9416@gmail.com<br>
- 🖥 Resume : [이력서 바로가기](https://inquisitive-blue-ad5.notion.site/910770af0d8a45cb8f7b1dc3930d8814)<br>
- 📘 Blog : [블로그 바로가기](https://wowls9416.tistory.com/)
+ ✉ Email : <br>
+ 🖥 Resume : [이력서 바로가기]()<br>
+ 📘 Blog : [블로그 바로가기](/)
 <br>
 <br>
 <br>
