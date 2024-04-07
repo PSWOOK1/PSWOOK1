@@ -8,7 +8,6 @@
 
  ✉ Email : nicholas13241@gmail.com<br>
  🖥 Resume : [이력서 바로가기]()<br>
- 📘 Blog : https://ps-wook.tistory.com<br>
 <br>
 <br>
 <br>
